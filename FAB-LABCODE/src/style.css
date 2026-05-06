@@ -27,7 +27,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 
 }
-.nav .Gcode{
+.hebtn .btnn{
     padding: 10px 20px;
     font-size: 16px;
     background-color: #333;
@@ -37,6 +37,7 @@
     cursor: pointer;
     transition: background-color 0.3s ease;
     font-size: 24px;
+    margin: 10px;
 }
 .nav .Gcode:hover{
     background-color: #555;
